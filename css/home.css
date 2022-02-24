@@ -1,0 +1,19 @@
+#body{
+    background-color: black;
+}
+
+#contenedor{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#titulo{
+    font-weight: bold;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.boton {
+    color: yellow;
+    background-color: yellow;
+}

@@ -1,0 +1,23 @@
+#body{
+    background-color: black;
+}
+#section {
+    overflow: hidden;
+}
+#mitadIzq {
+    float: left;
+    width: 60%;
+    color: white;
+    margin-left: 3%;
+    margin-top: 2%; 
+}
+
+#mitadDere {
+    color: white;
+    width: 30%;
+    float: left;
+    margin-left: 3%;
+    margin-top: 2%; 
+  
+  
+}
